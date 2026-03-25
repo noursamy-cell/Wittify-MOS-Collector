@@ -50,7 +50,6 @@ The system is designed to traverse a partitioned directory structure. Each sub-d
 
 ## ✨ System Features
 
-* **Non-Linear Randomization Engine:** Decouples file naming from playback order to maintain a strictly blind testing environment.
 * **Comparative Playback Interface:** Allows evaluators to toggle seamlessly between model outputs for the same sentence to identify subtle prosodic variances.
 * **Automated Scoring Pipeline:** Real-time data serialization into structured `.csv` format for immediate downstream statistical analysis.
 
