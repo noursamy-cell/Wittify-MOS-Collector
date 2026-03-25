@@ -52,7 +52,6 @@ The system is designed to traverse a partitioned directory structure. Each sub-d
 
 * **Non-Linear Randomization Engine:** Decouples file naming from playback order to maintain a strictly blind testing environment.
 * **Comparative Playback Interface:** Allows evaluators to toggle seamlessly between model outputs for the same sentence to identify subtle prosodic variances.
-* **Localized UX/UI:** Interface optimized for Right-to-Left (RTL) Arabic typography and Saudi-specific instructional sets.
 * **Automated Scoring Pipeline:** Real-time data serialization into structured `.csv` format for immediate downstream statistical analysis.
 
 ---
@@ -77,7 +76,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-**Access Endpoint:** `http://localhost:5000`
 
 ---
 
