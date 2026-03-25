@@ -23,7 +23,7 @@ The benchmark evaluates five distinct state-of-the-art systems:
 The collector utilizes a **Grouped Comparative Design** with rigorous controls to ensure statistical integrity:
 
 * **Standardized Stimuli:** 10 Saudi Arabic sentences covering diverse phonetic and syntactic contexts.
-* **Blind Protocol (Double-Blind):** To eliminate cognitive bias, evaluators are not informed of the model identities. All samples are presented as anonymous "Options."
+* **Blind Protocol (Double-Blind):** To eliminate cognitive bias, evaluators are not informed of the model identities. All samples are presented as anonymous options.
 * **Dynamic Randomization:** The mapping of models to audio slots (e.g., Audio 1, Audio 2) is **randomized per sentence**. 
     > **Note:** Model A may appear as the first audio in Sentence 1, but may shift to the fourth audio in Sentence 2. This prevents "positional bias" and ensures the evaluator remains focused on audio quality rather than pattern recognition.
 * **Target Demographic:** Evaluation is restricted to native Saudi Arabic speakers to ensure authentic validation of local nuances.
